@@ -1,0 +1,15 @@
+{
+  "name": "bananatasktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bananaManager.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
